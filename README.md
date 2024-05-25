@@ -6,5 +6,8 @@ I used a csv file which contains the data of the houses, then the ai model is to
 
 ## installation
 ```bash
-git clone 
+git clone https://github.com/Murtaja-Albasti/MelbourneHouses-MLProject.git
 ```
+
+##Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
